@@ -17,7 +17,7 @@ By understanding the challenges inherent to digital transformation, organization
 Total visibility requires insights into known, unknown, internal and internet-facing (external) assets, and these definitions are constantly stretching and changing in the modern business; new projects, with their own sets of unique open-source dependencies and user/device accounts, require visibility to update alongside the ecosystem, not after the fact. Total visibility provides answers to questions like the following:
 
 - What is my attack surface?
-- How well can I see what assets are in my environment? 
+- How well can I see what assets are in my environment?
 - How many, what types, and what attributes are associated with these assets?
 - What are my high-value assets?
 - How is my attack surface changing?

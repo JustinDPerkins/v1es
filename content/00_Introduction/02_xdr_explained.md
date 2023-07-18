@@ -21,4 +21,3 @@ This hampered visibility and lack of consistent context can lead to low-fidelity
 ---
 
 #### What is XDR?
-
