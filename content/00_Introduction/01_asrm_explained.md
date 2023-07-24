@@ -36,8 +36,8 @@ Once total and real-time visibility of the business has been implemented, aspect
 
 Closing the attack surface risk lifecycle is mitigation, the application of practices that lower the risk exposure from data collected during discovery and assessment. These practices can include implementing virtual patches based on discovered vulnerable operating systems, aligning prevention controls and configurations, and controlling user access parameters. Like the other parts of the ASRM lifecycle, mitigation succeeds when it is automated as much as possible to increase efficiency and decrease the chance of an attack or breach attempt from succeeding.
 
-#### Summary
+<!-- #### Summary -->
 
-Automating the proactive ASRM lifecycle is one half of an effective security strategy for the modern business; mapping assets in discovery and having mitigation workflows in place reduces the scope of investigation and improves triage protocols for the security operations center (SOC) of the business, allowing the SOC to efficiently detect, investigate, and respond to higher fidelity security events.
+<!-- Automating the proactive ASRM lifecycle is one half of an effective security strategy for the modern business; mapping assets in discovery and having mitigation workflows in place reduces the scope of investigation and improves triage protocols for the security operations center (SOC) of the business, allowing the SOC to efficiently detect, investigate, and respond to higher fidelity security events. -->
 
 ---

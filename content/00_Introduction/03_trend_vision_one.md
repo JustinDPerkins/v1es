@@ -10,29 +10,29 @@ Trend Vision One is a cloud-native security operations platform, combining Attac
 
 Vision One uses a native-first hybrid approach for XDE and ASRM to provide rich telemetry to understand the full context across security layers.
 
-![vision-one](/images/tm/platform.jpg)
+![vision-one](/static/images/tm/platform.jpg)
 
-----
+---
 
 ### Attack Surface Risk Management
 
 The attack surface consists of all the cyber assets connected within your organization and all possible attack vectors. Each entry point into the organization is an opportunity for breach. Digital transformation and the move to hybrid or remote work across many organizations has accelerated the size, scope, and composition of the attack surface.  
 
-![vision-one](/images/intro/asrm.jpg)
+![vision-one](/static/images/intro/asrm.jpg)
 
 ---
 
 ### Zero Trust Strategies
 
-Zero Trust Secure Access, secures all access across internal and cloud applications and environments from any user, device, location, at any time. 
+Zero Trust Secure Access, secures all access across internal and cloud applications and environments from any user, device, location, at any time.
 
-By eliminating the excessive trust placed on networks and locations and by providing device-aware, identity-based, and rule-powered access control, Zero Trust Secure Access enables adaptive, automated decisions on private and internet access to mitigate, detect, and respond to risks in the network environments. 
+By eliminating the excessive trust placed on networks and locations and by providing device-aware, identity-based, and rule-powered access control, Zero Trust Secure Access enables adaptive, automated decisions on private and internet access to mitigate, detect, and respond to risks in the network environments.
 
 ---
 
 ### Extended Detection and Response: XDR
 
-Extended Detection and Response collects and correlates data across multiple security layers: 
+Extended Detection and Response collects and correlates data across multiple security layers:
 
 ``` endpoint | server | email | identity | mobile | cloud workload | network ```
 
@@ -44,7 +44,7 @@ Security analysts can detect, investigate, and respond to individual events and 
 
 - **Root cause analysis**: Understand and investigate an individual alert and advanced persistent threats (APT).
 
-![vision-one](/images/intro/wb-intro.png)
+![vision-one](/static/images/intro/wb-intro.png)
 
 ---
 
